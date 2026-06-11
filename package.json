@@ -1,0 +1,20 @@
+{
+  "name": "backend_02",
+  "version": "1.0.0",
+  "description": "Starting with a basic app to deploy ",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Sandeep Choudhary",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
